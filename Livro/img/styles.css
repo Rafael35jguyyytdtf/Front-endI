@@ -8,7 +8,7 @@ h2 {
 }
 
 div {
-    background-color: #ffffff;
+    background-color: #f3f2f2;
     padding: 50px;
     width: 930px;
     margin:0 auto;
@@ -19,7 +19,7 @@ div {
 p{
     text-align: center;
     line-height: 28px;
-    font-family: ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 a{
@@ -34,4 +34,8 @@ a{
 
 span{
     font-weight: bold;
+}
+
+footer{
+    background-color: #f3f2f2;
 }
