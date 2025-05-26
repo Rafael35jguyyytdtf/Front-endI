@@ -1,0 +1,41 @@
+body{
+    border-width: 3px;
+    border-style: double;
+    border-color: rgb(186, 187, 189);
+    background-image: url(bac.web.avif);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    background-color: rgb(110, 187, 90);
+    border-width: 2px;
+    border-style: dotted;
+}
+ul{
+    color: rgb(110, 187, 90);
+    background-color: white;
+    padding: 50px;
+    width: 930px;
+    margin: 0 auto;
+    border-top: 20px solid;
+    border-radius: 30px;
+    margin-top: 40px;
+    font-size: 30px;
+}
+img{
+    width: 600px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 30px;
+    border-style: dashed;
+    border-color: rgb(110, 187, 90);
+    background-color: white;
+}
+
+a{
+    color: black;
+    background-color: rgb(110, 187, 90);
+    border-radius: 20px;
+}

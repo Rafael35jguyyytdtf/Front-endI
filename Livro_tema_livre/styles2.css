@@ -1,4 +1,67 @@
+img{
+    height: 300px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 50px;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: aliceblue;
+    padding: 20px;
+    background-image: url(song\ imag.jpeg);
+    background-position: center;
+}
+
+body{
+    background-image: url(bac\ anime.jpg);
+    background-position: center;
+    background-size: 150%, 100%;
+    text-align: center;
+    
+}
+
+h1{
+    background-color: blueviolet;
+    color: white;
+    border-width: 2px;
+    border-style: double;
+    border-color: rgb(59, 14, 102);
+}
+
+p{
+    background-color: blueviolet;
+    color: white;
+    border-width: 4px;
+    border-style: double;
+    border-color: rgb(59, 14, 102);
+    border-radius: 70px;
+    padding: 8px;
+}
+
 div{
-    position: absolute;
-    left: 16vw;
+    background-image: url(neytirix.jpg);
+    border-width: 4px;
+    border-style: double;
+    border-color: white;
+    border-radius: 70px;
+}
+
+a{
+    color: rgb(94, 7, 175);
+    background-color: rgb(255, 255, 255);
+    border-radius: 3px;
+    font-size: 20px;
+}
+
+.music2{
+    background-image: url(superi.jpg);
+    border-width: 4px;
+    border-style: double;
+    border-color: white;
+    border-radius: 70px;
+}
+
+ul{
+    color: white;
+    
 }
